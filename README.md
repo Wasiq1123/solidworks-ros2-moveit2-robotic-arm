@@ -94,8 +94,12 @@ ros2 run cpp_examples joint_goal
 ros2 run python_examples joint_goal
 ```
 
+## Acknowledgment
+
+The robot design and naming are inspired by FANUC industrial robotic arms.
+
 ---
 
 ## License
 
-`fanuc_description` is licensed under Apache-2.0 — see its `LICENSE` file.
+Apache-2.0
